@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divya Kumari</h1>
 <h3 align="center">A passionate frontend developer from India, a full-time front-end freelance developer 👨‍💻 working remotely since 2021 🚀</h3>
-<img aligh="right" alt="coding-girl" width="400" src="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif">
+<img alt="coding-girl" width="400" src="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif" align="right">
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdivyak&label=Profile%20views&color=0e75b6&style=flat" alt="iamdivyak" /> </p>
 
