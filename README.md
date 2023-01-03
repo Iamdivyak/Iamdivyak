@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **kumaridivya2796@gmail.com**
 
-- ⚡ Fun fact **I'm addicted to tea☕.**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,7 +51,10 @@
  &nbsp
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
  &nbsp
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+  &nbsp
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+</p>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamdivyak&show_icons=true&locale=en&layout=compact" alt="iamdivyak" /></p>
 
