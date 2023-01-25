@@ -10,12 +10,12 @@
 
 - 💬 Ask me about **MERN stack development**
 
-- 👀 Interest: **hnorogies🌐**
+- 👀 Interest: **Tecknologies🌐**
 
 - 📫 How to reach me **kumaridivya2796@gmail.com**
 
 <br>
-<h3 align="left">🌐 Connect with me:</h3>
+# 🌐 Connect with me:
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamdivyak) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Imdivyakumari) 
 <br>
