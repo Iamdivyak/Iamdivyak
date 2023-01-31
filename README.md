@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻, I'm Divya Kumari</h1>
+<h1 align="center">नमस्कार 🙏🏻, I'm Divya Kumari</h1>
 <h3 align="center">A passionate MERN Stack developer from India, a part-time Full Stack freelance developer 👨‍💻 working remotely since 2021 🚀</h3>
 <img alt="coding-girl" width="400" src="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif" align="right">
 <br>
